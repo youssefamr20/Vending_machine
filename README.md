@@ -1,5 +1,6 @@
 # Vending_machine
-A univeersity project of a vending machine 
+A univeersity project of a vending machine.
+
 Synthesis , DFT and PnR were made using alliance tools. 
 
 Description:
