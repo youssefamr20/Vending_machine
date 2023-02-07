@@ -4,6 +4,7 @@ A univeersity project of a vending machine.
 Synthesis , DFT and PnR were made using alliance tools. 
 
 Description:
+
 • User enters money: 0$, 0.25$, 0.5$, 1$ , and selects if he wants water
 (0.5 $) or soda (1.25 $) using the button “water_soda”, it will be
 pressed if the user wants soda instead of water.
