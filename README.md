@@ -15,8 +15,10 @@ In the repisotery there is  our design and testbench
 then we have 2 additional .VHD files contain the design after synthesis and inserting scan chains and testbench that compares between the design after
 synthesis and scan insertion and the original dataflow modeling.
 
-Here is a view of the FSM 
+Here is a view of the FSM :
+
 ![SumatraPDF_t8jV9Kp6vL](https://user-images.githubusercontent.com/57004820/217382659-f4baf0b3-26d5-4f5c-9bfe-b6c83dc93f0e.png)
 
-and Here is a view of the schematic 
+and Here is a view of the schematic:
+
 ![SumatraPDF_a7LstnLP5r](https://user-images.githubusercontent.com/57004820/217382694-4318a15c-3a4f-4880-a1d8-2ebb88b1fc03.png)
