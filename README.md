@@ -7,7 +7,9 @@ Description:
 • User enters money: 0$, 0.25$, 0.5$, 1$ , and selects if he wants water
 (0.5 $) or soda (1.25 $) using the button “water_soda”, it will be
 pressed if the user wants soda instead of water.
+
 • User waits for exchange: 0 $, 0.25 $, 0.5 $ .
+
 • User waits for the drink.
 
 ![SumatraPDF_wlCBuV0Ycx](https://user-images.githubusercontent.com/57004820/217381897-dce3298d-acf3-42b4-88e7-19757b80400b.png)
